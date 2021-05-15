@@ -6,5 +6,6 @@ h1, h2 {
   border:2px solid blue;
   width:5px;
   height:5px;
+position:relative;
   background-color: blue;
 }

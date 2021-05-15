@@ -15,6 +15,11 @@ function ak(e)
 top=top+10;
 snake.style.top=top+"px";
 }
+if(e.key=="ArrowDown")
+{
+left=left+"px";
+snake.style.top=top+"px";
+}
 console.log(e.key)
   }
 addEventListener("keydown",ak);
