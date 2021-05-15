@@ -1,3 +1,10 @@
 h1, h2 {
   font-family: Lato;
 }
+#snake
+{
+  border:2px solid blue;
+  width:5px;
+  height:5px;
+  background-color: blue;
+}
